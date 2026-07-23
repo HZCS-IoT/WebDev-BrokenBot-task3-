@@ -1,10 +1,5 @@
 # التاسك الثالث — إصلاح المساعد الصوتي (WebDev BrokenBot)
 
-**المقرر:** Web Development  
-**المؤسسة:** HZCS-IoT  
-**الموقع المباشر:** [https://hashem.free.je](https://hashem.free.je)
-
----
 
 ## وصف المشروع
 
@@ -40,8 +35,7 @@
 - رُفعت جميع الملفات داخل مجلد **`htdocs`** على File Manager.
 - تم وضع الملفات **في نفس المستوى** (بدون مجلدات فرعية):
   - `index.html`, `app.js`, `style.css`, `bot.php`, `config.php`, `.htaccess`
-- تم إدخال مفتاح **Cohere API** داخل `config.php` عبر File Manager على السيرفر (وليس داخل المستودع).
-
+  
 ### 2) إعداد مفتاح API
 
 1. إنشاء حساب في [Cohere Dashboard](https://dashboard.cohere.com/)
@@ -183,11 +177,6 @@ require __DIR__ . '/config.php';
 
 ---
 
-## رابط GitHub
-
-[https://github.com/HZCS-IoT/WebDev-BrokenBot-task3-](https://github.com/HZCS-IoT/WebDev-BrokenBot-task3-)
-
----
 
 ## الطالب
 
