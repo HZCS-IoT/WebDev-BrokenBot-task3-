@@ -58,7 +58,7 @@ define('COHERE_API_KEY', 'YOUR_KEY_HERE');
 
 تم تسجيل فيديو يوضّح أن التطبيق يعمل بعد الإصلاح:
 
-**[BrokenBot-fixed.mp4](./BrokenBot-fixed.mp4)** [▶ مشاهدة / تحميل فيديو العرض على GitHub](https://github.com/HZCS-IoT/Voice-Assistant-AI-task3-/blob/main/AI_voice_small.mp4)
+**[BrokenBot-fixed.mp4](./BrokenBot-fixed.mp4)** [▶ مشاهدة / تحميل فيديو العرض على GitHub](https://github.com/HZCS-IoT/WebDev-BrokenBot-task3-/blob/main/BrokenBot-fixed.mp4)
 
 
 الفيديو يعرض:
